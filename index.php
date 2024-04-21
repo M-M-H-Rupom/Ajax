@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Ajax 
  * Author: Rupom
- * Desciption: Plugin description
+ * Description: Plugin description
  * Version: 1.0
  */
 
